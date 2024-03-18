@@ -1,0 +1,1 @@
+This is repository of files for a website to promote my children's book title "Kat and Jan". It features 5 pages (a home page, a buy now page, a parents page, an about page, a kids play page). Send your feeback to robwilmitchell@gmail.com
