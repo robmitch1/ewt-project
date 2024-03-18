@@ -1,0 +1,381 @@
+.navbar {
+    width: auto;
+    height: 40px;
+    background-color: lightseagreen;
+}
+
+
+
+.body {
+    background-color: beige
+}
+
+.body1 {
+    background-color:#ffe43f;
+}
+
+.container1{ 
+
+}
+
+.body2 {
+    background-color: #da1689;
+}
+.body3 {
+    background-color: lightblue;
+
+
+}
+#body4 {
+    background-color: #1fdf45;
+}
+
+#body5 {
+    background-color: red;
+}
+
+#body6{
+    background-color: ghostwhite;
+}
+
+
+
+.p.card-text {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    color: #df1f1f;
+}
+
+
+.container.mt-5 {
+    margin-top: 500px;
+    margin-left: 200px;
+    background-color: yellow;
+    width: 200px;
+}
+
+.d-block.w-100 {
+    
+    width: auto;
+    height:auto;
+
+
+}
+.btn-group {
+    position: center;
+
+}
+.container7 {
+    background-color: #FFF4B3;
+    width: 100%;
+    padding: 25px;
+    text-align: center;
+
+    }
+.container-fluid {
+    width: 100%;
+    text-align: center; 
+    position: center;  
+    background-color: #4CAC2C;
+}
+
+.container-fluid.justify-content-center {
+    
+    background-color: lightgrey;
+    width: min-content;
+    
+    
+    
+}
+.containerKJ {
+    background-color: #df1f1f;
+    margin-bottom: 50px;
+    
+}
+.KJintro{
+    
+    width: 800p;
+    border: 25px;
+    padding: 25px;
+    margin: 25px;
+    border-style: double;
+    border-color: #1fdf45;
+
+}
+
+.mb-3{
+    width: 280px;
+
+}
+.enjoy{
+    width: fit-content;
+}
+
+.col-md-4.mb-3 {
+    
+    
+    
+    
+    width: 120px;
+    
+    
+    
+}
+.containerFluid {
+    width: auto;
+    background-color: #1fdf45;
+}
+
+.copy{
+    
+    font-family:cursive;
+    font-size:xx-large;
+    text-align: center;
+    margin-left: 40px;
+    font-weight: 700px;
+    float: right;   
+}
+
+
+.moon {
+    width: 550px;
+    
+}
+.btn.btn-primary {
+    width: 120px;
+    margin-left: 10px;
+    margin-top: 14px;
+    
+}
+
+.footContainer {
+    width: 100%;
+    background-color: beige;
+
+    
+}
+
+.footer {
+    width: auto;
+    text-align: center;
+    margin: 25px;
+}
+
+.main {
+    border-style: dotted;
+    background-color: blanchedalmond;
+}
+
+.lead.lead.text-body-secondary {
+    border-style: dotted;
+}
+.fw-light{
+    
+}
+
+.py-5.text-center.container{
+    
+    background-color: #ffe200;
+    width: auto;
+    margin-bottom: 20px;
+    height: 400px;
+    padding: 25px;
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+.py-5.text-center.container img{
+    max-width: 120%;
+    max-height: 120%;
+    
+}
+
+.py-5.text-center.container7{
+    background-color: white;
+    width: 800px;
+    margin-bottom: 20px;
+    height: 300px;
+    position: center;
+    align-items: center;
+    font-family: cursive;
+    
+    
+
+}
+
+.py-5.text-center.container7 img{
+    max-width: 50%;
+    max-height: 50%;
+
+}
+.tabContainer{
+    background-color: aqua;
+}
+
+
+.mainContainer{
+    width: 100%;
+    height: 300px;
+    margin-bottom: 25px;
+    
+    
+
+    
+}
+.saleContainer{
+    background-color: #ffe200;
+    width: 200px;
+    margin-left: 800px;
+}
+
+.mainContainer img {
+    max-width: 100%;
+    max-height: 100%;
+}
+.mainContainer1{
+
+    width: auto;
+    margin-top: 25px;
+    
+    margin-bottom: 25px;
+    
+    padding: 25px;
+    height: 300px;
+    
+  
+
+}
+.colMain1{
+    text-align: center;
+    height: 200px;
+}
+.redCirc {
+    width: 50px;
+    height: 50px;
+}
+
+.mainContainer2 {
+    width: auto;
+    border-style: dotted;
+    margin-top: 25px;
+    margin-right:  25px;
+    margin-left: 25px;
+    margin-bottom: 25px;
+    background-color:white;
+    padding: 25px;
+    height: 300px;
+    display: flex;
+    justify-content: center;   
+}
+
+.mainContainer4{
+
+    width: 100%;
+    
+    background-color: lightskyblue;
+    
+    
+    
+  
+
+}
+.col-lg-6 {
+    background-color: #1fdf45;
+    width: 200px;
+    height: 200px;
+    font-family: cursive;
+    margin-left: 30px;
+}
+
+.mainContainer4 img {
+    max-width: 800%;
+    max-height: 800%;
+    margin-top: -200px;
+    position: center;
+    display: justify;
+    margin-left: 118px;
+    
+    
+    
+    
+        
+    
+}
+
+.row.align-items-center{
+    justify-content: center;
+    margin-left: 30px;
+    
+}
+
+.page3wall {
+    background-color: white;
+    
+    min-height: 800px; 
+    padding: 20px; 
+}
+
+.page3container {
+    margin-top: 25px;
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+}
+
+.copy1 {
+    font-family: cursive;
+    text-align: center;
+    margin: 25px 0; 
+}
+
+.illustrator,
+.writer {
+     width: 100%; 
+    max-width: 400px;
+    height: auto; 
+    margin-top: 25px;
+}
+
+.illustratorBlock,
+.writerBlock,
+.name {
+    text-align: left;
+    margin-top: 15px; 
+}
+.copy{
+    font-size: larger;
+    margin-top: 70px;
+    
+    
+    
+}
+
+.blue {
+    text-align: center;
+    
+    
+}
+
+.emailbox {
+    background-color: white;
+    margin-top: 25px;
+    
+    
+    
+    
+}
+
+.carousel {
+    max-width: fit-content;
+    height: 250px;
+}
+
+.mainPage {
+    width: 500px;
+    height: 400px;
+    ;
+    
+    
+}

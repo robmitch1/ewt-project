@@ -1,0 +1,17 @@
+function backgroundColor() {
+  let color = 'orange';
+
+  document.body.style.backgroundColor = 'gray';
+}
+
+function changeColor() {
+  let color = 'blue';
+
+  document.body.style.backgroundColor = 'brown';
+}
+
+function colors() {
+  let colors = ['orange', 'brown', 'light beige', 'purple','pink','teal'];
+  let random = Math.floor(Math.random() * colors.length);
+  document.body.style.backgroundColor = colors[random];
+}

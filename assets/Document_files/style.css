@@ -1,0 +1,109 @@
+.navbar {
+    
+    margin-bottom: 5px;
+    width: 100%;
+    
+
+
+
+
+}
+.body {
+    background-color: beige
+}
+
+.body1 {
+    background-color:#ffe43f;
+}
+.body2 {
+    background-color: #da1689;
+}
+.body3 {
+    background-color: #CE2832;
+
+
+}
+#body4 {
+    background-color: #1fdf45;
+}
+
+#body5 {
+    background-color: red;
+}
+
+
+
+.p.card-text {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    color: #df1f1f;
+}
+
+.popover {
+    margin-left: 200px;
+    margin-top: 20px;
+    color-scheme: blue;
+    text-decoration: yellowgreen;
+    
+
+}
+.container.mt-5 {
+    margin-top: 500px;
+    margin-left: 200px;
+    background-color: yellow;
+    width: 200px;
+}
+
+.d-block.w-100 {
+    
+    width: auto;
+    height:auto;
+
+
+}
+.btn-group {
+    position: center;
+    
+    
+   
+    
+
+}
+.container7 {
+    background-color: aqua;
+    width: 100;
+    border: 25px;
+    margin: 25px;
+    padding: 25px;
+    
+    margin-top: 50px;
+    justify-content: center;
+    display: flex;
+    
+    
+
+
+}
+.container-fluid {
+    width: 800px;
+}
+
+.formContainer {
+    margin: 100px;
+    width:auto;
+    border-style: solid;
+    background-color: yellow;
+    height: 300px;
+}
+
+.signupForm {
+    
+}
+
+.container-fluid{
+    width: 300px;
+    margin: 25px;
+    padding: 25px;
+    border-style: dotted;
+
+}
